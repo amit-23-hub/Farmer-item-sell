@@ -181,7 +181,11 @@ const ProductInfo = () => {
             </div>
           </div>
         </div>
+<<<<<<< HEAD
 
+=======
+      
+>>>>>>> e16760a0917cdf22af82a13bd788f584801200e2
     )
   );
 };
